@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Disallow: /404
+
+Sitemap: https://www.example.com/sitemap.xml
